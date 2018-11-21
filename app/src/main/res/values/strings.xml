@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">访达</string>
+    <string name="btn_back">后退</string>
+    <string name="not_permiss_info">没有读写文件权限无法使用,可到设置页面开放权限</string>
+</resources>
